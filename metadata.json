@@ -1,0 +1,5 @@
+{
+  "name": "Opal Data Pipeline",
+  "description": "A client-side, offline-first visual data pipeline for deterministic payroll and spreadsheet transformations using ReactFlow and Danfo.js.",
+  "requestFramePermissions": []
+}
